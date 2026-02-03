@@ -40,6 +40,7 @@ Before installing Ansible, it's essential to update your package list to ensure 
 After the installation is complete, verify it by checking the version of Ansible installed. </br>
 ```
   ansible --version
+  sudo vi /etc/ansible/hosts
 ```
 
 ### 4. You should see output similar to
